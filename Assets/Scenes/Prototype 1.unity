@@ -1107,6 +1107,10 @@ PrefabInstance:
       propertyPath: speed
       value: 15
       objectReference: {fileID: 0}
+    - target: {fileID: 1448757291480712086, guid: 889f118217853ac48b94d1bedeb55937, type: 3}
+      propertyPath: turnSpeed
+      value: 60
+      objectReference: {fileID: 0}
     - target: {fileID: 4510447299208349245, guid: 889f118217853ac48b94d1bedeb55937, type: 3}
       propertyPath: m_Enabled
       value: 1
